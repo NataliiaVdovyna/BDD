@@ -17,11 +17,14 @@ $ git clone https://github.com/NataliiaVdovyna/BDD.git
 
 This project raises the number x to the power of 3. Here are some examples:
 
-1 raised to the power of 3 equals 1
-2 raised to the power of 3 equals 8
-3 raised to the power of 3 equals 27
-4 raised to the power of 3 equals 64
-5 raised to the power of 3 equals 125
+| Number | Expression               | Result |
+|--------|--------------------------|--------|
+| 1      | 1 raised to the power of 3 | 1      |
+| 2      | 2 raised to the power of 3 | 8      |
+| 3      | 3 raised to the power of 3 | 27     |
+| 4      | 4 raised to the power of 3 | 64     |
+| 5      | 5 raised to the power of 3 | 125    |
+
 
 Handling Invalid Values
 If you enter NaN (not a number), the function will return NaN as well.
